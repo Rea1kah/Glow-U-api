@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
-import "../styles/feature.css";
 import features from "../data/features";
+import "../styles/feature.css";
 
 export default function FeatureSection() {
   const cardsRef = useRef([]);

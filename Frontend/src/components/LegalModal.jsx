@@ -1,5 +1,5 @@
 import React, {useEffect} from "react";
-import "../styles/LegalModal.css";
+import "../styles/legalModal.css";
 
 export default function LegalModal({isOpen, onClose, title, content, type})
 {
