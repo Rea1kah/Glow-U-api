@@ -1,10 +1,14 @@
+# Folder sampah (JANGAN DIUPLOAD)
 node_modules/
 frontend/node_modules/
 backend/node_modules/
-
-.env
 .DS_Store
+
+# File Hasil Build
 dist/
 build/
-npm-debug.log
-yarn-error.log
+
+# File Rahasia (Password database dll)
+.env
+backend/.env
+frontend/.env
